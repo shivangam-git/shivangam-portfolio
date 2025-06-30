@@ -5,29 +5,39 @@ const Projects = () => {
             id: 1,
             title: "Content Editor Tool",
             description: [
-                "AI-powered React app for generating audience-tailored product descriptions.",
-                "Features include regeneration, copy-to-clipboard, feedback system, and chatbot.",
-                "Supports rewriting and generating benefits, features, titles, and meta descriptions.",
-                "Tech Stack: React (TypeScript), Redux Toolkit, HTML, CSS, SCSS, Bootstrap."
+                "AI-powered React app for generating audience-tailored product descriptions, benefits, features, titles, and meta descriptions",
+                "Features include regeneration, rewrite, copy-to-clipboard, feedback system",
+                "Integrated chatbot for real-time assistance",
+                "Built a Settings page that allows clients to define and customize the style, Words and Phrases to Avoid, Examples and types of product descriptions best suited for their brand identity",
+                "Built Input forms with validation to ensure data integrity and user-friendly experience",
+                "Integrated OpenAI APIs for dynamic content generation",
+                "Implemented state management and UX improvements for a seamless user flow",
+                "Tech Stack: React (TypeScript), Redux Toolkit, HTML, CSS, SCSS, Bootstrap"
             ],
         },
         {
             id: 2,
             title: "Go To Health",
             description: [
-                "Healthcare web app that connects patients with medical providers and facilities.",
-                "Users can search for medicines, book appointments, and access health info.",
-                "Built with RESTful APIs for frontend-backend integration.",
-                "Tech Stack: React.js, Node.js, Express.js, MongoDB, HTML, CSS."
+                "Healthcare web app that connects patients with medical providers and facilities",
+                "Users can search for medicines, book appointments, and access health information",
+                "Integrated RESTful APIs for real-time data retrieval and updates",
+                "Created CRUD API endpoints for managing user profiles, appointments, and medical records",
+                "Built with RESTful APIs for frontend-backend integration",
+                "Created login and registration functionality from scratch",
+                "Created a user-friendly interface with responsive design for seamless navigation",
+                "Tech Stack: React.js, Node.js, Express.js, MongoDB, HTML, CSS"
             ]
         },
         {
             id: 3,
             title: "Portfolio",
             description: [
-                "Responsive portfolio website to showcase skills, projects, and resume.",
-                "Smooth scroll navigation and interactive UI using Tailwind CSS.",
-                "Tech Stack: React.js, Tailwind CSS."
+                "Responsive portfolio website to showcase skills, projects, and resume",
+                "Implemented smooth scroll navigation and an interactive UI using Tailwind CSS for a seamless user experience",
+                "Created sections for Home, About, Experience, Projects, and Contact",
+                "Includes downloadable resume, live project demos, and a contact form for quick outreach",
+                "Tech Stack: React.js, Tailwind CSS"
             ]
         }
     ];

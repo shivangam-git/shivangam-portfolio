@@ -6,13 +6,10 @@ const About=()=>{
                 <div className='pb-8'>
                     <p className='mb-8 text-white text-4xl inline font-bold border-b-4 border-gray-400'>About</p>
                 </div>
-                <p className='text-xl'> Hi, I'm a Frontend Developer who loves turning ideas into interactive web experiences.
-                     I've been working with React.js, JavaScript, TypeScript Html, Css, Scss and Tailwind CSS to build clean, responsive UIs. I enjoy learning new technologies 
-                     and writing code that not only works but looks good too. I'm constantly 
-                    improving my skills and excited to contribute to real-world projects that make a difference.</p>
+                <p className='text-xl'> Hi, I'm a Frontend Developer passionate about turning ideas into engaging and interactive web experiences. I have hands-on experience working with technologies like React.js, React.ts, JavaScript, TypeScript, HTML, CSS, SCSS, and Tailwind CSS to build clean, responsive, and user-friendly interfaces. I'm always working to sharpen my skills and excited to contribute to impactful, real-world projects.</p>
                     <br/>
                     <br/>
-                <p className='text-xl'>My goal is to grow into a Frontend Lead, and I'm also open to exploring and contributing to Backend development when given the opportunity.</p>
+                <p className='text-xl'>My long-term goal is to grow into a Frontend Lead role. I'm also open to exploring backend development and contributing across the stack whenever the opportunity arises.</p>
             </div>
         </div>
     )
