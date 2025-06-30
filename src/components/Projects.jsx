@@ -23,7 +23,6 @@ const Projects = () => {
                 "Users can search for medicines, book appointments, and access health information",
                 "Integrated RESTful APIs for real-time data retrieval and updates",
                 "Created CRUD API endpoints for managing user profiles, appointments, and medical records",
-                "Built with RESTful APIs for frontend-backend integration",
                 "Created login and registration functionality from scratch",
                 "Created a user-friendly interface with responsive design for seamless navigation",
                 "Tech Stack: React.js, Node.js, Express.js, MongoDB, HTML, CSS"
@@ -36,10 +35,10 @@ const Projects = () => {
                 "Responsive portfolio website to showcase skills, projects, and resume",
                 "Implemented smooth scroll navigation and an interactive UI using Tailwind CSS for a seamless user experience",
                 "Created sections for Home, About, Experience, Projects, and Contact",
-                "Includes downloadable resume, live project demos, and a contact form for quick outreach",
+                "Includes downloadable resume and a quick outreach",
                 "Tech Stack: React.js, Tailwind CSS"
             ]
-        }
+        },
     ];
 
     return (
