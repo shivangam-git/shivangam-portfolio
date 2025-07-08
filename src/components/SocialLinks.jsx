@@ -48,7 +48,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Shivangam-Resume.pdf",
+      href: "/Shivangam_updated_resume.pdf",
       style: "rounded-br-md",
       download: true,
     },
